@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issae>
+    <specialite nom="Informatique">
+        <etudiant username="samikaram@isae.edu.lb" password="123456">
+            <valeur>NFP121</valeur>
+            <valeur>NFA035</valeur>
+            <valeur>NFP107</valeur>
+        </etudiant>
+    </specialite>
+    <specialite nom="Electronique">
+        <etudiant username="mahdihaidar@isae.edu.lb" password="313313">
+            <valeur>NFA032</valeur>
+            <valeur>NFA035</valeur>
+            <valeur>NFA007</valeur>
+            <valeur>NFA042</valeur>
+        </etudiant>
+    </specialite>
+</issae>

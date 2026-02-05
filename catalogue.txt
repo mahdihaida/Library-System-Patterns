@@ -1,0 +1,5 @@
+video;1;Java Streams API;Oracle;2024;Cours avancé;[NFP121, NFA032];45
+document;2;UML Design Patterns;Gang of Four;2020;Livre ref;[NFA035];300
+video;3;TCP/IP Protocol;Cisco;2023;Réseaux;[NFA042];60
+video;4;test;test;2000;testtest;[NFA007];10
+video;5;test;test;2023;Réseaux;[NFA042];60
